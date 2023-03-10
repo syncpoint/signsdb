@@ -1,0 +1,17 @@
+{
+  "name": "@syncpoint/signsdb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mil-std-2525": "^0.2.5",
+    "ramda": "^0.28.0",
+    "stanag-app6": "^0.2.0"
+  }
+}
